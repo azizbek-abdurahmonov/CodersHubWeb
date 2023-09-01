@@ -1,0 +1,12 @@
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\bin\Debug\net7.0\Backend.CodersHub.deps.json
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\bin\Debug\net7.0\Backend.CodersHub.dll
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\bin\Debug\net7.0\Backend.CodersHub.pdb
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.csproj.AssemblyReference.cache
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.AssemblyInfoInputs.cache
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.AssemblyInfo.cs
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.csproj.CoreCompileInputs.cache
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.dll
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\refint\Backend.CodersHub.dll
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\Backend.CodersHub.pdb
+D:\PROJECTS\CodersHub\src\Backend.CodersHub\Backend.CodersHub\Backend.CodersHub\obj\Debug\net7.0\ref\Backend.CodersHub.dll
